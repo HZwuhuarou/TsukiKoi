@@ -7,3 +7,7 @@ p{
 body {  
     background-color: #dbf0d9;  
 }
+
+.highlight {  
+    background-color: yellow;  
+}
