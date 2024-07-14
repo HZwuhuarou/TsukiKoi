@@ -1,2 +1,0 @@
-#hljzyydx_jmsxy
-新生须知
