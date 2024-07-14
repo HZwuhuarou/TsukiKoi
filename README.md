@@ -1,2 +1,2 @@
-# hljzyydx_jmsxy
-新生手册
+#hljzyydx_jmsxy
+新生须知
