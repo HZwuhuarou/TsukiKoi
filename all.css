@@ -15,16 +15,16 @@ p{
 }
 
 .page_top{
-    padding: 5%;
+    padding: 2%;
     align-items: center;
     justify-content: space-between;
     display: flex;
-    height: 10.8vh;
+    height: 4vh;
     background-color: rgb(132, 196, 124);
 }
 
 .page_con{
-    height: 89.2vh;
+    height: 96vh;
     background-color: rgb(132, 196, 124);
 }
 
@@ -35,4 +35,8 @@ p{
 .title_top_2{
     line-height: 26px;
     font-size: 24px;
+}
+
+.top_con_1{
+    height: 10px;
 }
