@@ -86,3 +86,25 @@ p{
     font-weight: bold;
 }
 
+.onlinetell{
+    margin-top: 8vh;
+    line-height: 40px;
+}
+
+.what {
+    width: 330px;
+    height: 200px;
+}
+
+.who {
+    width: 300px;
+    height: 20px;
+}
+
+.send {
+    font-size: 20px;
+    width: 120px;
+    height: 60px;
+    margin-left: 13vh;
+    margin-top: 1vh;
+}
