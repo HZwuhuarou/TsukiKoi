@@ -1,7 +1,7 @@
 p{
     color: black;
     font-size: 16px;
-    line-height: 18px;
+    line-height: 32px;
 }
 
 .body{
@@ -53,8 +53,8 @@ p{
     position: fixed;
     left: 0;
     padding-top: 1vh;
-    height: 40vh;
-    width: 10%;
+    height: 30vh;
+    width: 15%;
     background-color: rgb(173, 216, 167);
     box-shadow: 4px 0 4px 0 rgb(157, 199, 157);
 }
@@ -62,8 +62,23 @@ p{
 .pc_box{
     height: 6000px;
     background-color: #dbf0d9;
-    width: 100%;
+    width: 70%;
     margin-top: 1%;
-    margin-left: 13%;
+    margin-left: 22%;
 }
+
+.nav a{
+    line-height: 40px;
+    font-size: 26px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 0;
+}
+
+.home h1{
+    font-size: 32px;
+    text-align: center;
+}
+
 
