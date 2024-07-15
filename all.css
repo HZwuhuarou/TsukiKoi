@@ -4,6 +4,10 @@ p{
     line-height: 18px;
 }
 
+.body{
+    background-color: #dbf0d9;
+}
+
 .page{
     height: 100vh;
     background-color: #dbf0d9;  
@@ -15,28 +19,51 @@ p{
 }
 
 .page_top{
+    top: 0;
+    left: 0;
+    width: 96%;
+    position: fixed;
     padding: 2%;
     align-items: center;
     justify-content: space-between;
     display: flex;
-    height: 4vh;
+    height: 3vh;
     background-color: rgb(132, 196, 124);
+    z-index: 999;
+    box-shadow: 0 4px 4px 0 rgb(157, 199, 157);
 }
 
 .page_con{
-    height: 96vh;
-    background-color: rgb(132, 196, 124);
+    margin-top: 9vh;
+    height: 97vh;
+    display: flex;
 }
 
 .title_top_1{
-    font-size: 32px;
+    font-size: 24px;
+    line-height: 30px;
 }
 
 .title_top_2{
-    line-height: 26px;
-    font-size: 24px;
+    line-height: 18px;
+    font-size: 16px;
 }
 
-.top_con_1{
-    height: 10px;
+.pc_nav{
+    position: fixed;
+    left: 0;
+    padding-top: 1vh;
+    height: 40vh;
+    width: 10%;
+    background-color: rgb(173, 216, 167);
+    box-shadow: 4px 0 4px 0 rgb(157, 199, 157);
 }
+
+.pc_box{
+    height: 6000px;
+    background-color: #dbf0d9;
+    width: 100%;
+    margin-top: 1%;
+    margin-left: 13%;
+}
+
